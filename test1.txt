@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is D8BE-BCA7
+
+ Directory of C:\GitProjects\GitProject1
+
+31/12/2016  07:11 PM    <DIR>          .
+31/12/2016  07:11 PM    <DIR>          ..
+31/12/2016  07:11 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  83,754,930,176 bytes free
